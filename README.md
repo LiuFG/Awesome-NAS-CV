@@ -1,2 +1,13 @@
 # awesome-NAS-CV
-NAS paper list classified by classification(base), segmentation, 2D detection
+## classification(base)
+### 2020
+### 2019
+### 2018
+## segmentation
+### 2020
+### 2019
+### 2018
+## 2D detection
+### 2020
+### 2019
+### 2018
