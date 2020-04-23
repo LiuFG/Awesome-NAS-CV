@@ -1,5 +1,6 @@
 # Awesome NAS CV
 This repo is a curated list of NAS classified by CV tasks. It is may easier to study NAS for different CV fields.
+
 Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search) and [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS).
 ## classification(base)
 ### 2020
