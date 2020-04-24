@@ -9,13 +9,18 @@ Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision
 | :---------- | :------------: | :--------------------: | :---------------------: | :---------: |
 | Explanation | gradient-based | reinforcement learning | evaluationary algorithm | other types |
 
-We record code that includes search stage instead of only train and inference.
+We record code that includes search stage instead of only train and inference. We copy the line if the paper is efficient for several CV tasks.
 
 > Classification is out of list. Because almost all basic NAS algorithm are tested on Classification task.
 
 ## Table of Contents
 
-[TOC]
+- [Segmentation](#segmentation)
+  * [2020](#2020)
+  * [2019](#2019)
+- [2D Detection](#2d-detection)
+  * [2020](#2020-1)
+  * [2019](#2019-1)
 
 ## Segmentation
 
@@ -28,10 +33,10 @@ We record code that includes search stage instead of only train and inference.
 
 ### 2019
 
-| Title | Venue | Type | Code | Blog |
-| :---- | :---: | :--: | :--: | :--: |
-|       |       |      |      |      |
-|       |       |      |  -   |      |
+| Title                                                        |     Venue     | Type |                       Code                       | Blog |
+| :----------------------------------------------------------- | :-----------: | :--: | :----------------------------------------------: | :--: |
+| [SqueezeNAS: Fast neural architecture search for faster semantic segmentation](https://arxiv.org/abs/1908.01748) | ICCV Workshop |  G   | [Github](https://github.com/ashaw596/squeezenas) |      |
+|                                                              |               |      |                        -                         |      |
 
 ## 2D Detection
 
@@ -43,6 +48,7 @@ We record code that includes search stage instead of only train and inference.
 | [SM-NAS: Structural-to-Modular Neural Architecture Search for Object Detection](https://arxiv.org/abs/1911.09929) | AAAI  |  EA   |  -   |      |
 | [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | CVPR  |  RL   |      |      |
 | [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  | Other |  -   |      |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](http://47.94.197.207/2020/04/10/Fast Neural Network Adaptation via Parameter Remapping and Architecture Search/) | ICLR  |   G   |      |      |
 ### 2019
 
 | Title                                                        |  Venue  | Type |                       Code                       |   Blog    |
