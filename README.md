@@ -28,17 +28,22 @@ The line is copied if the paper is efficient for several CV tasks.
 
 ### 2020
 
-| Title                                                        | Venue | Type | Code | Blog |
-| :----------------------------------------------------------- | :---: | :--: | :--: | :--: |
-| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2001.02525) | ICLR  |  G   |      |      |
-|                                                              |       |      |      |      |
+| Title                                                        | Venue | Type  |                         Code                          | Blog |
+| :----------------------------------------------------------- | :---: | :---: | :---------------------------------------------------: | :--: |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2001.02525) | ICLR  |   G   |                                                       |      |
+| [FasterSeg: Searching for Faster Real-time Semantic Segmentation](https://arxiv.org/abs/1912.10917) | ICLR  | Other |   [Github](https://github.com/TAMU-VITA/FasterSeg)    |      |
+| [Graph-guided Architecture Search for Real-time Semantic Segmentation](https://arxiv.org/abs/1909.06793) | CVPR  | Other | [Github(wait)](https://github.com/L-Lighter/LightNet) |      |
+| [Learning Dynamic Routing for Semantic Segmentation](https://arxiv.org/abs/2003.10401) | CVPR  |       | [Github](https://github.com/yanwei-li/DynamicRouting) |      |
 
 ### 2019
 
-| Title                                                        |     Venue     | Type |                       Code                       | Blog |
-| :----------------------------------------------------------- | :-----------: | :--: | :----------------------------------------------: | :--: |
-| [SqueezeNAS: Fast neural architecture search for faster semantic segmentation](https://arxiv.org/abs/1908.01748) | ICCV Workshop |  G   | [Github](https://github.com/ashaw596/squeezenas) |      |
-|                                                              |               |      |                        -                         |      |
+| Title                                                        |                            Venue                             | Type |                        Code                         | Blog |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | :--: | :-------------------------------------------------: | :--: |
+| [SqueezeNAS: Fast neural architecture search for faster semantic segmentation](https://arxiv.org/abs/1908.01748) |                        ICCV Workshop                         |  G   |  [Github](https://github.com/ashaw596/squeezenas)   |      |
+| [SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation](https://arxiv.org/abs/1909.05962?context=cs) | [Smart Materials and Structures](https://iopscience.iop.org/journal/0964-1726) |      |                          -                          |      |
+| [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) |                             CVPR                             |  G   | [Github](https://github.com/MenghaoGuo/AutoDeeplab) |      |
+| [Customizable architecture search for semantic segmentation](https://arxiv.org/abs/1908.09550) |                             CVPR                             |      |                                                     |      |
+| [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777) |                             CVPR                             |  EA  |                                                     |      |
 
 ## 2D Detection
 
