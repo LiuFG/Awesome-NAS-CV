@@ -9,7 +9,9 @@ Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision
 | :---------- | :------------: | :--------------------: | :---------------------: | :---------: |
 | Explanation | gradient-based | reinforcement learning | evaluationary algorithm | other types |
 
-We record code that includes search stage instead of only train and inference. We copy the line if the paper is efficient for several CV tasks.
+The code is recorded only if it includes search stage instead of only train and inference. 
+
+The line is copied if the paper is efficient for several CV tasks.
 
 > Classification is out of list. Because almost all basic NAS algorithm are tested on Classification task.
 
@@ -28,7 +30,7 @@ We record code that includes search stage instead of only train and inference. W
 
 | Title                                                        | Venue | Type | Code | Blog |
 | :----------------------------------------------------------- | :---: | :--: | :--: | :--: |
-| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](http://47.94.197.207/2020/04/10/Fast Neural Network Adaptation via Parameter Remapping and Architecture Search/) | ICLR  |  G   |      |      |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2001.02525) | ICLR  |  G   |      |      |
 |                                                              |       |      |      |      |
 
 ### 2019
@@ -48,7 +50,7 @@ We record code that includes search stage instead of only train and inference. W
 | [SM-NAS: Structural-to-Modular Neural Architecture Search for Object Detection](https://arxiv.org/abs/1911.09929) | AAAI  |  EA   |  -   |      |
 | [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | CVPR  |  RL   |      |      |
 | [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  | Other |  -   |      |
-| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](http://47.94.197.207/2020/04/10/Fast Neural Network Adaptation via Parameter Remapping and Architecture Search/) | ICLR  |   G   |      |      |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2001.02525) | ICLR  |   G   |      |      |
 ### 2019
 
 | Title                                                        |  Venue  | Type |                       Code                       |   Blog    |
