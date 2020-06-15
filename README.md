@@ -56,9 +56,17 @@ The line is copied if the paper is efficient for several CV tasks.
 | [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | CVPR  |  RL   |      |      |
 | [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  | Other |  -   |      |
 | [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2001.02525) | ICLR  |   G   |      |      |
+| [SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization](https://arxiv.org/abs/1912.05027) | CVPR  |       |      |      |
+| [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  |  EA   |      |      |
+|                                                              |       |       |      |      |
+|                                                              |       |       |      |      |
 ### 2019
 
 | Title                                                        |  Venue  | Type |                       Code                       |   Blog    |
 | :----------------------------------------------------------- | :-----: | :--: | :----------------------------------------------: | :-------: |
 | [DetNAS: Backbone Search for ObjectDetection](https://arxiv.org/abs/1903.10979) | NeurIPS |  EA  | [Github](https://github.com/megvii-model/DetNAS) | [zh]/[en] |
 | [NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection](https://arxiv.org/abs/1904.07392) |  CVPR   |  RL  |                        -                         |           |
+| [Auto-FPN: Automatic Network Architecture Adaptation for Object Detection](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Auto-FPN_Automatic_Network_Architecture_Adaptation_for_Object_Detection_Beyond_Classification_ICCV_2019_paper.pdf) |  ICCV   |  G   |                                                  |           |
+| [Efficient Neural Architecture Transformation Search in Channel-Level for Object Detection](https://arxiv.org/abs/1909.02293) | NeurIPS |  G   |                                                  |           |
+| [MnasFPN : Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices](https://arxiv.org/abs/1912.01106) |  Arxiv  |      |                                                  |           |
+|                                                              |         |      |                                                  |           |
