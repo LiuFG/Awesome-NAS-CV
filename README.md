@@ -52,17 +52,18 @@ The line is copied if the paper is efficient for several CV tasks.
 
 ### 2020
 
-| Title                                                        | Venue | Type  | Code | Blog |
-| :----------------------------------------------------------- | :---: | :---: | :--: | :--: |
-| [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423) | CVPR  |  RL   |  -   |      |
-| [SM-NAS: Structural-to-Modular Neural Architecture Search for Object Detection](https://arxiv.org/abs/1911.09929) | AAAI  |  EA   |  -   |      |
-| [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | CVPR  |  RL   |      |      |
-| [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  | Other |  -   |      |
-| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2001.02525) | ICLR  |   G   |      |      |
-| [SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization](https://arxiv.org/abs/1912.05027) | CVPR  |       |      |      |
-| [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  |  EA   |      |      |
-| [MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://arxiv.org/abs/2004.14525) |       |       |      |      |
-|                                                              |       |       |      |      |
+| Title                                                        | Venue | Type  |                       Code                       | Blog |
+| :----------------------------------------------------------- | :---: | :---: | :----------------------------------------------: | :--: |
+| [NAS-FCOS: Fast Neural Architecture Search for Object Detection](https://arxiv.org/abs/1906.04423) | CVPR  |  RL   |                        -                         |      |
+| [SM-NAS: Structural-to-Modular Neural Architecture Search for Object Detection](https://arxiv.org/abs/1911.09929) | AAAI  |  EA   |                        -                         |      |
+| [EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070) | CVPR  |  RL   |                                                  |      |
+| [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  | Other |                        -                         |      |
+| [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2001.02525) | ICLR  |   G   |                                                  |      |
+| [SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization](https://arxiv.org/abs/1912.05027) | CVPR  |       |                                                  |      |
+| [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  |  EA   |                                                  |      |
+| [MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://arxiv.org/abs/2004.14525) |       |       |                                                  |      |
+| [Hit-Detector: Hierarchical Trinity Architecture Search for Object Detection](https://arxiv.org/abs/2003.11818) | CVPR  |       | [Github](https://github.com/ggjy/HitDet.pytorch) |      |
+| [SP-NAS: Serial-to-Parallel Backbone Search for Object Detection](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_SP-NAS_Serial-to-Parallel_Backbone_Search_for_Object_Detection_CVPR_2020_paper.pdf) | CVPR  |       |                                                  |      |
 ### 2019
 
 | Title                                                        |  Venue  | Type |                       Code                       |   Blog    |
