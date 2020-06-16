@@ -85,6 +85,7 @@ The line is copied if the paper is efficient for several CV tasks.
 | [FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions](https://arxiv.org/abs/2004.05565) |        |      |                                                       |      |
 | [FBNetV3: Joint Architecture-Recipe Search using Neural Acquisition Function](https://arxiv.org/abs/2006.02049) |        |      |                                                       |      |
 | [MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://arxiv.org/abs/2004.14525) |        |      |                                                       |      |
+| [Neural Architecture Search for Lightweight Non-Local Networks](https://cs.jhu.edu/~alanlab/Pubs20/li2020neural.pdf) |  CVPR  |      |     [Github](https://github.com/LiYingwei/AutoNL)     |      |
 
 ### 2019
 
