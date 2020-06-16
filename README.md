@@ -23,6 +23,9 @@ The line is copied if the paper is efficient for several CV tasks.
 - [2D Detection](#2d-detection)
   * [2020](#2020-1)
   * [2019](#2019-1)
+- [Mobile](#Mobile)
+  * [2020](#2020-2)
+  * [2019](#2019-2)
 
 ## Segmentation
 
@@ -58,7 +61,7 @@ The line is copied if the paper is efficient for several CV tasks.
 | [Fast Neural Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2001.02525) | ICLR  |   G   |      |      |
 | [SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization](https://arxiv.org/abs/1912.05027) | CVPR  |       |      |      |
 | [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB) | ICLR  |  EA   |      |      |
-|                                                              |       |       |      |      |
+| [MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://arxiv.org/abs/2004.14525) |       |       |      |      |
 |                                                              |       |       |      |      |
 ### 2019
 
@@ -70,3 +73,26 @@ The line is copied if the paper is efficient for several CV tasks.
 | [Efficient Neural Architecture Transformation Search in Channel-Level for Object Detection](https://arxiv.org/abs/1909.02293) | NeurIPS |  G   |                                                  |           |
 | [MnasFPN : Learning Latency-aware Pyramid Architecture for Object Detection on Mobile Devices](https://arxiv.org/abs/1912.01106) |  Arxiv  |      |                                                  |           |
 |                                                              |         |      |                                                  |           |
+
+## Mobile
+
+### 2020
+
+| Title                                                        | Venue  | Type |                         Code                          | Blog |
+| :----------------------------------------------------------- | :----: | :--: | :---------------------------------------------------: | ---- |
+| [Once for All: Train One Network and Specialize it for Efficient Deployment](https://arxiv.org/abs/1908.09791) |  ICLR  |      | [Github](https://github.com/mit-han-lab/once-for-all) |      |
+| [MoGA: Searching Beyond MobileNetV3](https://arxiv.org/abs/1908.01314) | ICASSP |      |    [Github](https://github.com/xiaomi-automl/MoGA)    |      |
+| [FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions](https://arxiv.org/abs/2004.05565) |        |      |                                                       |      |
+| [FBNetV3: Joint Architecture-Recipe Search using Neural Acquisition Function](https://arxiv.org/abs/2006.02049) |        |      |                                                       |      |
+| [MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://arxiv.org/abs/2004.14525) |        |      |                                                       |      |
+
+### 2019
+
+| Title                                                        | Venue | Type |                          Code                           | Blog |
+| :----------------------------------------------------------- | :---: | :--: | :-----------------------------------------------------: | ---- |
+| [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332) | ICLR  |  G   |  [Github](https://github.com/mit-han-lab/proxylessnas)  |      |
+| [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) | ICCV  |      | [Github](https://github.com/xiaolai-sqlai/mobilenetv3)  |      |
+| [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | CVPR  |      | [Github](https://github.com/AnjieCheng/MnasNet-PyTorch) |      |
+| [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) |       |      |    [Github](https://github.com/AnnaAraslanova/FBNet)    |      |
+|                                                              |       |      |                                                         |      |
+
